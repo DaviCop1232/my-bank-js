@@ -1,5 +1,8 @@
 class Cliente{
+    clienteId;
     nome;
+    telefone;
+    endereco;
     cpf;
 }
 
